@@ -1,5 +1,5 @@
 # Home_Security_System
 
-It's a Hardware project using Arduino.
+It's an Arduino Hardware project.
 
 Thank you.
